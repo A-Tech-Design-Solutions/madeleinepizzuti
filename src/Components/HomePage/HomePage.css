@@ -26,3 +26,10 @@
 	max-width: 260px;
 	max-height: 400px;
 }
+
+.itemList {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	text-align: center;
+}

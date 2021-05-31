@@ -1,0 +1,18 @@
+.aboutContent {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	padding: 5%;
+}
+
+.aboutLeftContent {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+.aboutRightContent {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
