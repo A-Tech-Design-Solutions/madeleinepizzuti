@@ -1,0 +1,20 @@
+.TopNavBack {
+	/* height: 5%; */
+	/* width: 100%; */
+	background-color: rgba(128, 202, 253, 41%);
+
+	/* position: fixed; */
+}
+
+.Navigation {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 50%;
+	margin: auto;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 1.5em;
+	font-weight: bold;
+	flex-wrap: wrap;
+	padding: 1%;
+}

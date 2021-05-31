@@ -1,0 +1,28 @@
+.mainBodyContainter {
+	box-shadow: 0 0 15px rgb(0 0 0 / 8%);
+	margin: 0 auto;
+	max-width: 1230px;
+	/* padding-left: 30px; */
+	/* padding-right: 30px; */
+	width: 90%;
+	background-color: white;
+	height: 100%;
+}
+
+.mainBodyBack {
+	background-color: #80cafd;
+	height: 100%;
+}
+
+.mainContent {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 5%;
+	flex-wrap: wrap;
+}
+
+.mainContent img {
+	max-width: 260px;
+	max-height: 400px;
+}
