@@ -1,0 +1,18 @@
+.TellStoryContainer {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	padding: 5%;
+}
+
+.TellStoryLeft {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+.TellStoryRight {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}

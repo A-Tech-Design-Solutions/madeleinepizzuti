@@ -5,6 +5,8 @@ import TopNav from "../TopNav/TopNav";
 import BearBook from "../../Images/BearBook.png";
 import StoryBook from "../../Images/TellMeAStory.png";
 import About from "../About/About";
+import TellMeAStory from "../TellMeAStory/TellMeAStory";
+import Bear from "../Bear/Bear";
 
 const HomePage = () => {
 	return (
@@ -27,7 +29,8 @@ const HomePage = () => {
 					<img src={StoryBook} alt="Tellmeastory" />
 				</div>
 				<About />
-
+				<TellMeAStory />
+				<Bear />
 				<Footer />
 			</div>
 		</div>
