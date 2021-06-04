@@ -7,6 +7,7 @@ import StoryBook from "../../Images/TellMeAStory.png";
 import About from "../About/About";
 import TellMeAStory from "../TellMeAStory/TellMeAStory";
 import Bear from "../Bear/Bear";
+import ContactMe from "../ContactMe/ContactMe";
 
 const HomePage = () => {
 	return (
@@ -31,6 +32,7 @@ const HomePage = () => {
 				<About />
 				<TellMeAStory />
 				<Bear />
+				<ContactMe />
 				<Footer />
 			</div>
 		</div>

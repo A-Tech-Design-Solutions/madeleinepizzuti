@@ -27,6 +27,10 @@ const Bear = () => {
 			<h1 style={{ textAlign: "center" }}>
 				Purchase now on Amazon button or link or image
 			</h1>
+			{/* May need to make a seprate component */}
+			<h1 style={{ textAlign: "center" }}>
+				Video with random images surrounding it.
+			</h1>
 		</div>
 	);
 };
