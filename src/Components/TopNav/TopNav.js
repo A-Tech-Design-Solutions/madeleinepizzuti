@@ -6,7 +6,7 @@ const TopNav = () => {
 	return (
 		<div className="TopNavBack">
 			<div className="Navigation">
-				<HashLink smooth to="/about#about">
+				<HashLink smooth to="/about">
 					About
 				</HashLink>
 				<li>Tell me a story</li>

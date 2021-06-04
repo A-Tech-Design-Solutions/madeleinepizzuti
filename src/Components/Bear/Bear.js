@@ -17,7 +17,7 @@ const Bear = () => {
 						beloved companion — Bear. Suitable for young readers 7-12 years and
 						bedtime stories for younger children.
 					</p>
-					<h1>IRead Reviews of BEAR button or link or image</h1>
+					<h1>Read Reviews of BEAR button or link or image</h1>
 				</div>
 				<div className="BearRight">
 					<h1>Image of the book goes here</h1>

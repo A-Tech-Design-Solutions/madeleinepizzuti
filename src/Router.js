@@ -1,5 +1,6 @@
 import React from "react";
 import { Switch, Route } from "react-router-dom";
+// import { HashLink } from "react-router-hash-link";
 import HomePage from "./Components/HomePage/HomePage";
 import About from "./Components/About/About";
 
