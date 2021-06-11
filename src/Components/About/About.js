@@ -6,7 +6,7 @@ import madeleinejeremy from "../../Images/madeleineandjeremy.jpg";
 
 const About = () => {
 	return (
-		<div>
+		<div id="About">
 			<div className="aboutContent">
 				<div className="aboutLeftContent">
 					<img src={madeleine} />

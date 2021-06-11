@@ -1,14 +1,20 @@
 import React from "react";
 import "./ContactMe.css";
 
+// https://www.w3schools.com/css/tryit.asp?filename=trycss_form_responsive
+
 function ContactMe() {
 	return (
-		<div>
+		<div id="ContactMe">
 			<div className="ContactMeContatiner">
-				<h1>Name Place Holder input</h1>
-				<h1>Email Address place holder input</h1>
-				<h1>Please Enter Message Here place holder</h1>
-				<button>Submit</button>
+				<input type="text" name="Name" placeholder="Name..." />
+				<input type="text" name="Email" placeholder="Email..." />
+				<textarea
+					id="subject"
+					name="subject"
+					placeholder="Please Ente Message Here..."
+				/>
+				<input type="submit" value="Submit" />
 			</div>
 		</div>
 	);
