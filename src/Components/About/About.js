@@ -1,16 +1,15 @@
 import React from "react";
 import "./AboutStyling.css";
-import YouTubePlayer from "react-player";
 import madeleine from "../../Images/madeleine-pic.jpg";
 import madeleinejeremy from "../../Images/madeleineandjeremy.jpg";
+import ReactiveYouTubePlayer from "../ReactiveYouTubePlayer/ReactiveYouTubePlayer";
 
 const About = () => {
 	return (
 		<div id="About">
 			<div className="aboutContent">
 				<div className="aboutLeftContent">
-					<img src={madeleine} />
-					<YouTubePlayer url="https://www.youtube.com/watch?v=D6I0uHECG-k" />
+					<img src={madeleine} alt="Madeleine" />
 				</div>
 				<div className="aboutRightContent">
 					<p>
@@ -42,8 +41,8 @@ const About = () => {
 				</div>
 			</div>
 			<div className="aboutContent">
-				<div className="aboutLeftContent">
-					<img src={madeleinejeremy} />
+				<div className="aboutLeftContent2">
+					<img src={madeleinejeremy} alt="madelineandjeremy" />
 					<h4 style={{ textAlign: "center" }}>
 						Madeleine with Jeremy Sallis of BBC Radio Cambridgeshire
 					</h4>
@@ -89,6 +88,7 @@ const About = () => {
 					</p>
 				</div>
 			</div>
+			<ReactiveYouTubePlayer url="https://www.youtube.com/watch?v=D6I0uHECG-k" />
 		</div>
 	);
 };

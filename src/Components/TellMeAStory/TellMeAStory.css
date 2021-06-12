@@ -4,16 +4,36 @@
 	justify-content: space-around;
 	padding: 5%;
 	background-color: #b7e2f2;
+	flex-wrap: wrap;
 }
 
 .TellStoryLeft {
 	display: flex;
 	flex-direction: column;
-	justify-content: space-around;
+	/* justify-content: space-around; */
+	max-width: 500px;
+	/* max-height: 800px; */
+	width: 100%;
+	margin: 2%;
+	/* width: 100%; */
+	height: auto;
+	flex-wrap: wrap;
+	font-size: 1em;
 }
 
 .TellStoryRight {
 	display: flex;
-	flex-direction: row;
-	justify-content: space-around;
+	flex-direction: column;
+	align-self: center;
+	/* justify-content: space-around; */
+}
+
+.TellStoryRight img {
+	max-width: 260px;
+	max-height: 400px;
+}
+
+.amazonButton {
+	max-width: 150px;
+	/* max-height: 500px; */
 }

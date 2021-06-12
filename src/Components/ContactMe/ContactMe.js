@@ -7,6 +7,7 @@ function ContactMe() {
 	return (
 		<div id="ContactMe">
 			<div className="ContactMeContatiner">
+				<h1>Contact</h1>
 				<input type="text" name="Name" placeholder="Name..." />
 				<input type="text" name="Email" placeholder="Email..." />
 				<textarea

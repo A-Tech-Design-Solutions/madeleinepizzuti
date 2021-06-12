@@ -38,12 +38,12 @@ const TellMeAStory = () => {
 						the smell of strawberries ripening in the distance, created for me,
 						a childhood memory that would last forever.
 					</p>
-					<a href="https://www.amazon.co.uk/Tell-Story-Childhood-Madeleine-2016-04-28/dp/B01K2WKIT8/ref=sr_1_1?dchild=1&keywords=madeleine+pizzuti&qid=1605167812&s=books&sr=1-1">
-						<img src={amazonlogo} alt="bottle" class="thumbnails" />
-					</a>
 				</div>
 				<div className="TellStoryRight">
 					<img src={StoryBook} alt="Tellmeastory" />
+					<a href="https://www.amazon.co.uk/Tell-Story-Childhood-Madeleine-2016-04-28/dp/B01K2WKIT8/ref=sr_1_1?dchild=1&keywords=madeleine+pizzuti&qid=1605167812&s=books&sr=1-1">
+						<img src={amazonlogo} alt="buyFromAmazon" class="amazonButton" />
+					</a>
 				</div>
 			</div>
 		</div>
