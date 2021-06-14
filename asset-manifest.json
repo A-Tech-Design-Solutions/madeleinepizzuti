@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/madeleinepizzuti/static/css/main.0157ac4b.chunk.css",
+    "main.js": "/madeleinepizzuti/static/js/main.ce33faf3.chunk.js",
+    "main.js.map": "/madeleinepizzuti/static/js/main.ce33faf3.chunk.js.map",
+    "runtime-main.js": "/madeleinepizzuti/static/js/runtime-main.5418ee71.js",
+    "runtime-main.js.map": "/madeleinepizzuti/static/js/runtime-main.5418ee71.js.map",
+    "static/js/2.d25b7bba.chunk.js": "/madeleinepizzuti/static/js/2.d25b7bba.chunk.js",
+    "static/js/2.d25b7bba.chunk.js.map": "/madeleinepizzuti/static/js/2.d25b7bba.chunk.js.map",
+    "static/js/3.09bdc843.chunk.js": "/madeleinepizzuti/static/js/3.09bdc843.chunk.js",
+    "static/js/3.09bdc843.chunk.js.map": "/madeleinepizzuti/static/js/3.09bdc843.chunk.js.map",
+    "index.html": "/madeleinepizzuti/index.html",
+    "static/css/main.0157ac4b.chunk.css.map": "/madeleinepizzuti/static/css/main.0157ac4b.chunk.css.map",
+    "static/js/2.d25b7bba.chunk.js.LICENSE.txt": "/madeleinepizzuti/static/js/2.d25b7bba.chunk.js.LICENSE.txt",
+    "static/media/BearBook.71c6d62e.png": "/madeleinepizzuti/static/media/BearBook.71c6d62e.png",
+    "static/media/TellMeAStory.4538038b.png": "/madeleinepizzuti/static/media/TellMeAStory.4538038b.png",
+    "static/media/amazonbuynow.5f48793e.png": "/madeleinepizzuti/static/media/amazonbuynow.5f48793e.png",
+    "static/media/HomePage.css": "/madeleinepizzuti/static/media/background.6fc5637c.png",
+    "static/media/madeleine-pic.46300e63.jpg": "/madeleinepizzuti/static/media/madeleine-pic.46300e63.jpg",
+    "static/media/madeleineandjeremy.1ef30bbf.jpg": "/madeleinepizzuti/static/media/madeleineandjeremy.1ef30bbf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5418ee71.js",
+    "static/js/2.d25b7bba.chunk.js",
+    "static/css/main.0157ac4b.chunk.css",
+    "static/js/main.ce33faf3.chunk.js"
+  ]
+}
