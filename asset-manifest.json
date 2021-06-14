@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/madeleinepizzuti/static/css/main.0157ac4b.chunk.css",
-    "main.js": "/madeleinepizzuti/static/js/main.ce33faf3.chunk.js",
-    "main.js.map": "/madeleinepizzuti/static/js/main.ce33faf3.chunk.js.map",
+    "main.js": "/madeleinepizzuti/static/js/main.9a6d5ce1.chunk.js",
+    "main.js.map": "/madeleinepizzuti/static/js/main.9a6d5ce1.chunk.js.map",
     "runtime-main.js": "/madeleinepizzuti/static/js/runtime-main.5418ee71.js",
     "runtime-main.js.map": "/madeleinepizzuti/static/js/runtime-main.5418ee71.js.map",
     "static/js/2.d25b7bba.chunk.js": "/madeleinepizzuti/static/js/2.d25b7bba.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.5418ee71.js",
     "static/js/2.d25b7bba.chunk.js",
     "static/css/main.0157ac4b.chunk.css",
-    "static/js/main.ce33faf3.chunk.js"
+    "static/js/main.9a6d5ce1.chunk.js"
   ]
 }
